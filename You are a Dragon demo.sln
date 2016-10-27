@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You are a Dragon demo.CSharp", "You are a Dragon demo.CSharp.csproj", "{8E832918-A891-4871-6188-1B977BDD33DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You are a Dragon demo.CSharp.Editor", "You are a Dragon demo.CSharp.Editor.csproj", "{E8AEA261-25EC-9762-7209-62482E394CC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E832918-A891-4871-6188-1B977BDD33DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E832918-A891-4871-6188-1B977BDD33DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E832918-A891-4871-6188-1B977BDD33DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E832918-A891-4871-6188-1B977BDD33DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8AEA261-25EC-9762-7209-62482E394CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8AEA261-25EC-9762-7209-62482E394CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8AEA261-25EC-9762-7209-62482E394CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8AEA261-25EC-9762-7209-62482E394CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
